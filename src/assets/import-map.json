@@ -1,8 +1,7 @@
 {
   "imports": {
     "child1": "http://localhost:4201/tin.js",
-    "child2": "https://micro-fe-angular-app.onrender.com/main-es2015.310bd30cf4af11c52e4d.js",
-    "child3": "https://micro-fe-angular-app.onrender.com/main-es5.310bd30cf4af11c52e4d.js",
+    "child2": "http://localhost:4202/main.js",
     "@org1/react-app": "http://localhost:8080/org1-react-app.js"
   }
 }
