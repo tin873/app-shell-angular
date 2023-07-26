@@ -1,0 +1,20 @@
+main {
+  max-width: 1000px;
+  margin: auto;
+}
+
+
+.child-app {
+  border: 3px dashed firebrick;
+  padding: 24px;
+}
+
+ul{
+  list-style: none;
+  display: flex;
+  
+}
+
+ul li {
+  padding: 0px 10px;
+}
