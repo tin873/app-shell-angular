@@ -63,7 +63,7 @@ export class AppComponent implements OnInit {
     //   .catch((error) => {
     //     console.error('Failed to load microfrontend', error);
     //   });
-    System.import('http://localhost:8080/org1-react-app.js')
+    System.import('https://cors-anywhere.herokuapp.com/https://micro-fe-react-app.onrender.com/org1-react-app.js')
       .then((appModule) => {
         // const app = appModule.default;
         // const parcelConfig = {
