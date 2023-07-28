@@ -7,7 +7,7 @@ const routes: Routes = [ {
   children: [{
     path: '**',
     loadChildren: () => import('./spa-host/spa-host.module').then(m => m.SpaHostModule),
-    data: { app: 'child2' }
+    data: { app: 'child2' } 
   }]
 }];
 
