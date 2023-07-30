@@ -1,6 +1,6 @@
 {
   "imports": {
-    "child2": "https://cors-anywhere.herokuapp.com/https://micro-fe-angular-app.onrender.com/main-es2015.310bd30cf4af11c52e4d.js",
+    "child2": "./main-es2015.cae4ff198af6b9a43086.js",
     "@org1/react-app": "https://cors-anywhere.herokuapp.com/https://micro-fe-react-app.onrender.com/org1-react-app.js"
   }
 }
